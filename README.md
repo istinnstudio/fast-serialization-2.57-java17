@@ -1,3 +1,5 @@
+WARNING: FOR NOW ONLY RELEASE ASSETS IS THE LATEST SOURCE AVAILABLE, NOT THE REPOSITORY
+
 New source version in Releases: 2.57-java25 REMOVED sun.misc.Unsafe - experimental (using gemini AI)  (current repository not updated) use the latest uploaded release "source" file
 
 New source version in Releases: 2.57-java21 (current repository not updated)
